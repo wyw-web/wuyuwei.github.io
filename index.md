@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+<meta charset="utf-8"/>
+    <title>我的个人网站</title>
+  </head>
+  <body>
+    <h1>自我介绍</h1>
+    <p>你好，我的名字叫吴雨薇，是来自公共卫生学院的北大萌新，欢迎访问我的个人网站！
 
-You can use the [editor on GitHub](https://github.com/wyw-web/wuyuwei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wyw-web/wuyuwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我来自广西桂林，一个以山水闻名的美丽城市，我在这里出生长大。平时喜欢阅读、听音乐，还喜欢一个人出去散步溜达，喜欢去各种各样的地方旅游。对中国古典文化感兴趣，喜欢逛博物馆，参观历史文化景区。同时我也喜欢各种小动物，它们是人类的好朋友。来到北京，我认识了许多新的朋友，也学习到许多新的知识。希望访问这个网站的你能够喜欢它，也欢迎对它提出意见！</p>
+<h2>我的家乡</h2>
+<p>我来自广西壮族自治区的桂林市，我的家乡有山有水，还有丰富的历史文化。</p>
+<a href="https://baike.baidu.com/item/%E6%A1%82%E6%9E%97/7495?fr=aladdin">我的家乡桂林</a>
+</body>
